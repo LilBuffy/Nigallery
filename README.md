@@ -25,5 +25,3 @@ Node.js is only used as a manifest generator, while GitHub Actions and GitHub Pa
 Common image formats such as **JPG, JPEG, PNG, WebP, AVIF, BMP, and SVG**, plus **GIF, MP4, WebM, MOV, OGV, MP3, WAV, M4A, FLAC, and OGG**.
 
 Add your files, regenerate the manifest, and DONE. ПИЗДЕЦ, EZ.
-
-**For intense thugshakers.**
